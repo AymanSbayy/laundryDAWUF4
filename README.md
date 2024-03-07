@@ -13,7 +13,8 @@
 * HTML5
 * CSS3
 .....
-
+Nom Cognom: [Ayman Sbay]
+Rol: Propietari
 ---
 #### Watch Demo : https://www.youtube.com/watch?v=ReipY-Eg9YY
 ---
