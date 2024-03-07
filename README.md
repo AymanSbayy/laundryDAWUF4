@@ -1,5 +1,5 @@
 # Víctor Comino COLABORADOR
-# laundry management system Víctor
+# laundry management system Víctor i Ayman
 
 ---
 ## Using Tech:
